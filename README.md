@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, and Other Sowtware tools.
 - 🌱 I’m currently learning JAVA, DSA and JavaScript
 - 📫 How to reach me at 
-GMAIL: pranav.keri2000@gmail.com
+GMAIL: pranav.keri2000@gmail.com,
 Instagram: https://www.instagram.com/pranavkeri/
 
 
