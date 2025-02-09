@@ -5,4 +5,4 @@ I have worked on Manual Testing on Devices like Roku, Android, Playstation, and 
 I am Pursuing Masters in Computer Applications PG Program at Jain University specializing in Full Stack Development.
 > I have used tools like Qmetry Test Management, TestRail Test management, Jira, Mux, ADB, and Telnet.\
 > I have used WindowsOS, and MacOS.\
-> I have a good understanding of Java, and JavaScript Languages.\
+> I have a good understanding of Java, and JavaScript Languages.
